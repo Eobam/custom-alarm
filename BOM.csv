@@ -1,2 +1,4 @@
 Name, Price, Use, Link
 Dragonstate HDK-302004AA-2W, $0.46, This makes sound, https://www.lcsc.com/product-detail/C19725766.html?s_z=s_c_Speakers&spm=wm.fly.bg.1.xh&lcsc_vid=QVdYBFdXQlFfUQIEQ1dYVQFSEVBZVldRElJbV1BSQAcxVlNRT1ZfXlNTTlNaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D
+Raspberry Pi Pico, $5.00, i need this to send the power that makes the sound, https://www.adafruit.com/pico?src=raspberrypi
+LM386, $1, this makes it so the power is sound and so i don't blow up the speaker, https://www.lcsc.com/product-detail/C9723.html?s_z=n_q_LM386N-1&spm=wm.fly.bg.0.xh&lcsc_vid=RgNaA1NXQAJdAwYAR1JaXgBfQlhaXgJVQQRXV10HT1ExVlNRT1ZXVVZVRlZWXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D
